@@ -2,8 +2,8 @@
 
 Simple test project about clear architecture and swift
 
-![alt text](https://github.com/Icar05/HobbyRandomizer/blob/main/list.png)
-![alt text](https://github.com/Icar05/HobbyRandomizer/blob/main/random.png)
+![alt text](https://github.com/Icar05/StepExample/blob/main/2022-02-01%2017.56.37.jpg)
+![alt text](https://github.com/Icar05/StepExample/blob/main/2022-02-01%2017.56.42.jpg)
 
 
 # License
